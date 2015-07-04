@@ -11,4 +11,4 @@ Translate this mod is my duty
 
 BTW for another reason I will not update least lang file to InfinityStudio/Gregtech5-Translation-Chinese 
 
-so if you wanna tell me some problems or advice....send a issue to me I will answer it as soon as possible:)
+so if you wanna tell me some problems or advice....send a issue here and I will answer it as soon as possible:)
